@@ -1,0 +1,1 @@
+# JS-as-an-external-file
